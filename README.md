@@ -7,3 +7,4 @@ Nova funcionalidade
 
 def nova_funcao():
 
+def funcao_nova_2():
